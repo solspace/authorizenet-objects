@@ -25,7 +25,7 @@ class HostedPaymentSetting extends AbstractModel
     const SETTING_NAME_BILLING_ADDRESS_OPTIONS  = 'BillingAddressOptions';
     const SETTING_NAME_CUSTOMER_OPTIONS         = 'CustomerOptions';
     const SETTING_NAME_ORDER_OPTIONS            = 'OrderOptions';
-    const SETTING_NAME_FRAME_COMMUNICATOR_URL   = 'FrameCommunicatorUrl';
+    const SETTING_NAME_FRAME_COMMUNICATOR_URL   = 'IFrameCommunicatorUrl';
 
     /**
      * @var Name of the setting with a common prefix removed
